@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for SFE Bar Graph
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SFEbarGraph	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+barGraph	KEYWORD2
+clear	KEYWORD2
+paint	KEYWORD2
+send	KEYWORD2
+sendLong	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
